@@ -1,0 +1,11 @@
+D:\VisualStudio\Project2\PTA\bin\Release\PTA.exe.config
+D:\VisualStudio\Project2\PTA\bin\Release\PTA.exe
+D:\VisualStudio\Project2\PTA\bin\Release\PTA.pdb
+D:\VisualStudio\Project2\PTA\obj\Release\PTA.csproj.AssemblyReference.cache
+D:\VisualStudio\Project2\PTA\obj\Release\PTA.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Project2\PTA\obj\Release\PTA.Form1.resources
+D:\VisualStudio\Project2\PTA\obj\Release\PTA.Properties.Resources.resources
+D:\VisualStudio\Project2\PTA\obj\Release\PTA.csproj.GenerateResource.cache
+D:\VisualStudio\Project2\PTA\obj\Release\PTA.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Project2\PTA\obj\Release\PTA.exe
+D:\VisualStudio\Project2\PTA\obj\Release\PTA.pdb
